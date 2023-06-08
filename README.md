@@ -1,2 +1,2 @@
 # IICL
-We will publish the code after receiving the paper
+We will publish the code after receiving the paper.
